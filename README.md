@@ -1,2 +1,3 @@
-# rc_bootcamp1
-Utilities for use in bootcamp.
+#rc_bootcamp1
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
